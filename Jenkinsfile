@@ -5,3 +5,5 @@ node("docker") {
     sh "cd build && ./build"
   }
 }
+
+yolo
